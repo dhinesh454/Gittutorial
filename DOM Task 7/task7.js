@@ -3,7 +3,7 @@ const itemList = document.querySelector('#items');
 // console.log(itemList.parentNode);
 // itemList.parentNode.style.backgroundColor='grey'
 // console.log(itemList.parentNode.parentNode.parentNode);
-
+console.log('hello')
 
 
 
